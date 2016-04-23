@@ -2,6 +2,7 @@ name: abehaak
 favicon: null
 layout_spectrum: 0.02387544931843877
 typography_spectrum: 0.45087953051552176
+title: Public Log
 cta:
   domain: null
   bucket: null
