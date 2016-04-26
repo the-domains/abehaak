@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Public Log]]></title>
+        <description><![CDATA[Public Log]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 01:31:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jim Wayne Miller]]></title>
+            <description><![CDATA[<article><h1>Jim Wayne Miller</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c1a0b43-6a20-499e-9f83-0ef13ca84be7.jpg"></article>]]></description>
+            <link>undefinedjim-wayne-miller/index.html</link>
+            <guid isPermaLink="false">6de5529c-6f65-44a2-a8b2-6ac15eb0f9a6</guid>
+            <pubDate>Tue, 26 Apr 2016 01:31:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
