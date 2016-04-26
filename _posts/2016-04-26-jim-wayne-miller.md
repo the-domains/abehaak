@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T01:31:45.709Z'
-dateModified: '2016-04-26T01:30:56.201Z'
+datePublished: '2016-04-26T01:39:04.522Z'
+dateModified: '2016-04-26T01:39:04.147Z'
 title: Jim Wayne Miller
 author: []
 authors: []
