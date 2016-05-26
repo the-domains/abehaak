@@ -1,29 +1,41 @@
-name: abe haak
-favicon: null
-layout_spectrum: 0.52959
-typography_spectrum: 0.45087953051552176
 title: A Philological Diary
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9849589227233082
+  brandStrength: 0.125
+  rhythmicContrast: 0.9518769001588225
   brandColors:
     - '#181e2a'
     - '#d2a167'
     - '#ac7e4a'
     - '#724f2f'
     - '#cde1e8'
-  brandStrength: 0.125
   lightness: 0.7859651355538517
-  saturation: 0.9849589227233082
-  rhythmicContrast: 0.9518769001588225
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: abe haak
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4508795305155218
+layout_spectrum: 0.6276596
